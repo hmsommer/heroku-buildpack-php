@@ -1,6 +1,7 @@
 {
     "name": "heroku/heroku-buildpack-php",
     "require" : {
-    	"ext-mbstring": "*"
+    	"ext-mbstring": "*",
+    	"php":"~5.6.0"
     }
 }
