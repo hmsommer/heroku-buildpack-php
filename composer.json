@@ -1,6 +1,6 @@
 {
     "name": "heroku/heroku-buildpack-php",
     "require" : {
-    	"ext-mbstring": "*"
+    	"mbstring": "*"
     }
 }
